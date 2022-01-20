@@ -1,0 +1,28 @@
+Q1 uf50-024
+
+velka chybovost
+
+total mean error: 0.1494397218116012
+total max error: 0.18084833564138073
+
+R1 uf50-024
+
+velka chybovost
+
+total mean error: 0.08748074071920696
+total max error: 0.17496148143841392
+
+A uf20-07
+
+ok...
+
+total mean error: 0.0
+total max error: 0.0
+
+temperature = 50
+cooling = 0.99
+inner = 6
+frozenDiff = 0.01
+frozenSize = 0.1
+
+dalsi postup je nemozny, dlouhy beh instanci

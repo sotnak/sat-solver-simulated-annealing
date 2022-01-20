@@ -1,0 +1,12 @@
+M1 uf50-015
+
+nedostatecna presnost -> pomaleji ochlazovat
+
+total mean error: 0.046432061099241626
+total max error: 0.04692570097345869
+
+temperature = 40
+cooling = 0.95
+inner = 5
+frozenDiff = 0.01
+frozenSize = 0.1

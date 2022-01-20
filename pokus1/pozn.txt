@@ -1,0 +1,12 @@
+M1 uf20-022
+
+precasne ukonceni
+
+temperature = 60
+cooling = 0.95
+inner = 5
+frozenDiff = 0.05
+frozenSize = 0.1
+
+total mean error: 0.025076648807071347
+total max error: 0.06559244791666667

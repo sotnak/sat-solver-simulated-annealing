@@ -1,0 +1,3 @@
+/home/pavel/Desktop/kop/kop-hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pavel/Desktop/kop/kop-hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pavel/Desktop/kop/kop-hw5/cmake-build-debug/CMakeFiles/kop_hw5.dir

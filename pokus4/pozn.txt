@@ -1,0 +1,41 @@
+M1 uf50-015
+
+ok...
+
+total mean error: 0.020199940279076088
+total max error: 0.02778933355520426
+
+N1 uf50-024
+
+ok...
+
+total mean error: 0.03274321706076168
+total max error: 0.044938783081869896
+
+
+Q1 uf50-024
+
+obrovska chyba -> pomaleji ochlazovat, zvetsit vnitrni cyklus
+
+total mean error: 0.19886352315690653
+total max error: 0.279119864594553
+
+R1 uf50-024
+
+obrovska chyba -> pomaleji ochlazovat, zvetsit vnitrni cyklus
+
+total mean error: 0.20117432031312094
+total max error: 0.2317727259513358
+
+A uf20-07
+
+obrovska chyba -> pomaleji ochlazovat, zvetsit vnitrni cyklus
+
+total mean error: 0.03276353276353276
+total max error: 0.2948717948717949
+
+temperature = 40
+cooling = 0.975
+inner = 5
+frozenDiff = 0.01
+frozenSize = 0.1

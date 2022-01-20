@@ -1,0 +1,20 @@
+M1 uf20-022
+
+ok...
+
+total mean error: 0.014656922087570247
+total max error: 0.08977407847800238
+
+M1 uf50-015
+
+faze mezi 0 a 10000 zbytecne dlouha -> snizit pocatecni teplotu
+precasne ukonceni
+
+total mean error: 0.06007754890328549
+total max error: 0.0769734687192925
+
+temperature = 60
+cooling = 0.95
+inner = 5
+frozenDiff = 0.025
+frozenSize = 0.1
